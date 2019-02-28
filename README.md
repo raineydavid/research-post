@@ -19,3 +19,7 @@ https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html .
 [ ]
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite
 
+[][](https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d)
+[ ][Caltech 101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
+[ ][Teachable Machine - No coding required ](https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab)
+
